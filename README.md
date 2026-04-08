@@ -3,17 +3,21 @@
 ### Senior Software Development Student | 3.85 GPA | Phi Theta Kappa (PTK)
 I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer Technology & Software Development (Expected Dec. 2026).
 I specialize in building robust backend systems, managing complex relational databases, and implementing efficient algorithms.
+
 ---
 ### .✦ ݁˖Features Projects.✦ ݁˖
 * **[Food Review System](https://github.com/brodystewart-git/Food-Review-Data-Management-System)** – A full-stack Java application utilizing JDBC and MySQL to manage food review data and user sentiment. Focuses on data integrity (3NF) and UI state management.
+
 ---
-### .✦ ݁˖Technical Toolkit.✦ ݁˖
-* **Languages:** Java (Primary), SQL (MySQL/Workbench), Python, C, C++, Assembly, Ruby, LabView and more!
-* **Backend:** Java (JSE/Swing), JDBC, OOP Design Patterns
-* **Database:** MySQL, MySQL Workbench, Relational Schema Design (3NF), CRUD Operations
-* **Robotics & Logic:** PID Control Loops, State Machines, WPILib, Algorithms
-* **Tools & Infrastructure:** Git/GitHub, Linux, Docker, Markdown, Maven/Gradle, Networking
-* **Certifications:** CompTIA Network+
+## .✦ ݁˖ Technical Toolkit .✦ ݁˖
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, SQL, Python, C/C++, Assembly, Ruby |
+| **Backend & DB** | JDBC, MySQL Workbench, CRUD, Schema Design |
+| **Robotics & Logic** | PID Loops, State Machines, BFS/DFS Algorithms |
+| **Tools & Infrastructure** | Git/GitHub, Linux, Docker, Maven/Gradle, Networking |
+| **Certifications** | CompTIA Network+ |
 ---
 
 ### .✦ ݁˖Connect with me.✦ ݁˖
