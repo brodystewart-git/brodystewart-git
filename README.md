@@ -21,12 +21,14 @@ I specialize in building robust backend systems, managing complex relational dat
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
+      <p align="center"><b>✦ Skills ✦</b></p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,mysql,python,cpp,linux,docker,git,maven&theme=dark" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
+      <p align="center"><b>✦ Code Usage ✦</b></p>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" alt="Brody's Top Languages" />
     </td>
   </tr>
