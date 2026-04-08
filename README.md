@@ -20,10 +20,5 @@ I specialize in building robust backend systems, managing complex relational dat
 * **Portfolio Archive:** Check out my [Valencia Coursework Repo]((https://github.com/brodystewart-git/Valencia-College-Coursework)) for a deep dive into my academic journey, along with my other repositories for larger projects.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,maven,gradle,mysql,mongodb,aws,raspberrypi,discord&theme=dark" />
-</p>
-<p align="center">
-  <a href="https://github.com/brodystewart-git/Food-Review-Data-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brodystewart-git&repo=Food-Review-Data-Management-System&theme=tokyonight&title_color=FDFD96&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,maven,gradle,mysql,mongodb,&theme=dark" />
 </p>
