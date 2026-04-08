@@ -15,7 +15,7 @@ I specialize in building robust backend systems, managing complex relational dat
 * **Tools & Infrastructure:** Git/GitHub, Linux, Docker, Markdown, Maven/Gradle, Networking
 * **Certifications:** CompTIA Network+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" alt="Brody's Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" alt="Brody's Top Languages" />
 </p>
 
 ## ─── ✦ ݁˖ Connect with me ˖ ݁ ✦ ───
