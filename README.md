@@ -21,5 +21,5 @@ I specialize in building robust backend systems, managing complex relational dat
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,ruby,mysql,html,css,js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,github,git,idea,eclipse,visualstudio,unreal,godot,raspberrypi,maven,gradle,,mongodb,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,github,git,idea,eclipse,visualstudio,unreal,godot,raspberrypi,maven,gradle,mongodb,dotnet&theme=dark" />
 </p>
