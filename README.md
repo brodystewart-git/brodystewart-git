@@ -17,7 +17,11 @@ I specialize in building robust backend systems, managing complex relational dat
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" alt="Brody's Top Languages" />
 </p>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,python,cpp,linux,docker,git,maven&theme=dark" />
+  </a>
+</p>
 ## ─── ✦ ݁˖ Connect with me ˖ ݁ ✦ ───
 * **LinkedIn:** [linkedin.com/in/your-profile-here](https://www.linkedin.com/in/brody-stewart-2b45a3273/)
 * **Portfolio Archive:** Check out my [Valencia Coursework Repo]((https://github.com/brodystewart-git/Valencia-College-Coursework)) for a deep dive into my academic journey, along with my other repositories for larger projects.
