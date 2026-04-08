@@ -14,6 +14,9 @@ I specialize in building robust backend systems, managing complex relational dat
 * **Robotics & Logic:** PID Control Loops, State Machines, WPILib, Algorithms
 * **Tools & Infrastructure:** Git/GitHub, Linux, Docker, Markdown, Maven/Gradle, Networking
 * **Certifications:** CompTIA Network+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodystewart-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&color_weight=FDFD96" alt="Brody's Top Languages" />
+</p>
 
 ## ─── ✦ ݁˖ Connect with me ˖ ݁ ✦ ───
 * **LinkedIn:** [linkedin.com/in/your-profile-here](https://www.linkedin.com/in/brody-stewart-2b45a3273/)
