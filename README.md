@@ -19,17 +19,18 @@ I specialize in building robust backend systems, managing complex relational dat
 * **LinkedIn:** [linkedin.com/in/your-profile-here](https://www.linkedin.com/in/brody-stewart-2b45a3273/)
 * **Portfolio Archive:** Check out my [Valencia Coursework Repo]((https://github.com/brodystewart-git/Valencia-College-Coursework)) for a deep dive into my academic journey, along with my other repositories for larger projects.
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+    <div style="float: left; width: 45%;">
       <p align="center"><b>✦ Skills ✦</b></p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,mysql,python,cpp,linux,docker,git,maven&theme=dark" />
       </a>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
+    </div>
+    <div style="float: left; width: 45%;">
       <p align="center"><b>✦ Code Usage ✦</b></p>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" alt="Brody's Top Languages" />
-    </td>
-  </tr>
-</table>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brodystewart-git&layout=compact&theme=dark&title_color=FDFD96&hide_border=true&langs_count=6" />
+    </div>
+  </div>
+</div>
+<br clear="both">
