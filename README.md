@@ -1,4 +1,4 @@
-# ★ Hi, I'm Brody! ★
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FDFD96&width=435&lines=★+Hi%2C+I'm+Brody!+★" alt="Hi, I'm Brody!" />
 
 ### Senior Software Development Student | 3.85 GPA | Phi Theta Kappa (PTK)
 I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer Technology & Software Development (Expected Dec. 2026).
