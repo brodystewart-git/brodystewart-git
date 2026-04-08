@@ -1,6 +1,6 @@
 # ★ Hi, I'm Brody! ★
 
-### Senior Software Development Student | 3.85 GPA | Pi Theta Kappa
+### Senior Software Development Student | 3.85 GPA | Phi Theta Kappa (PTK)
 I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer Technology & Software Development (Expected Dec. 2026).
 I specialize in building robust backend systems, managing complex relational databases, and implementing efficient algorithms.
 
