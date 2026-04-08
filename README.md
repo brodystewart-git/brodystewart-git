@@ -1,16 +1,22 @@
-## ★ Welcome to my GitHub! ★
+# ★ Hi, I'm Brody! ★
 
-<!--
-**brodystewart-git/brodystewart-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Development Student | 3.85 GPA | Pi Theta Kappa
+I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer Technology & Software Development (Expected Dec. 2026).
+I specialize in building robust backend systems, managing complex relational databases, and implementing efficient algorithms.
 
-Here are some ideas to get you started:
+### .✦ ݁˖Features Projects.✦ ݁˖
+* **[Food Review System](https://github.com/brodystewart-git/Food-Review-Data-Management-System)** – A full-stack Java application utilizing JDBC and MySQL to manage food review data and user sentiment. Focuses on data integrity (3NF) and UI state management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### .✦ ݁˖Technical Toolkit.✦ ݁˖
+* **Languages:** Java (Primary), SQL (MySQL/Workbench), Python, C, C++, Assembly, Ruby, LabView and more!
+* **Backend:** Java (JSE/Swing), JDBC, OOP Design Patterns
+* **Database:** MySQL, MySQL Workbench, Relational Schema Design (3NF), CRUD Operations
+* **Robotics & Logic:** PID Control Loops, State Machines, WPILib, Algorithms
+* **Tools & Infrastructure:** Git/GitHub, Linux, Docker, Markdown, Maven/Gradle, Networking
+* **Certifications:** CompTIA Network+
+
+* 🇬🇧 **Future Plans:** Currently preparing for a potential internship this summer and graduation in December. Contemplating pursing a master's degree.
+
+* ### .✦ ݁˖Connect with me.✦ ݁˖
+* **LinkedIn:** [linkedin.com/in/your-profile-here](https://www.linkedin.com/in/brody-stewart-2b45a3273/)
+* **Portfolio Archive:** Check out my [Valencia Coursework Repo]((https://github.com/brodystewart-git/Valencia-College-Coursework)) for a deep dive into my academic journey, along with my other repositories for larger projects.
