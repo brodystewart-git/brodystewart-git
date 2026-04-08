@@ -5,7 +5,7 @@ I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer T
 I specialize in building robust backend systems, managing complex relational databases, and implementing efficient algorithms.
 
 ---
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="25" height="25" /> .✦ ݁˖ Featured Projects .✦ ݁˖ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="25" height="25" />
+### <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/sparkles.gif" width="20" /> .✦ ݁˖ Featured Projects .✦ ݁˖ <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/sparkles.gif" width="20" />
 * **[Food Review System](https://github.com/brodystewart-git/Food-Review-Data-Management-System)** – A full-stack Java application utilizing JDBC and MySQL to manage food review data and user sentiment. Focuses on data integrity (3NF) and UI state management.
 
 ---
