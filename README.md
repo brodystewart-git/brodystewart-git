@@ -1,6 +1,6 @@
 # [![Hi, I'm Brody!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=FDFD96&width=435&repeat=false&lines=★+Hi%2C+I'm+Brody!+★)](https://git.io/typing-svg)
 
-### Senior Software Development Student | 3.85 GPA | Phi Theta Kappa (PTK)
+### Senior Software Development Student | 3.91 GPA | Phi Theta Kappa (PTK)
 I am a graduating senior at **Valencia College** pursuing a B.A.S. in Computer Technology & Software Development (Expected Dec. 2026).
 I specialize in building robust backend systems, managing complex relational databases, and implementing efficient algorithms.
 
